@@ -1,0 +1,7 @@
+# exclude all files in conc_report but .gitkeep
+conc_reports/*
+!conc_reports/.gitkeep
+
+# misc
+.DS_Store
+__pycache__/
